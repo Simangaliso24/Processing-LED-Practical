@@ -31,3 +31,7 @@ This Processing sketch simulates 4 LEDs and a gauge bar with interactive mouse a
 2. Clone this repo:
    ```bash
    git clone https://github.com/your-username/Processing-LED-Practical.git
+   
+3. Open SlekaProcessing.pde in Processing IDE.
+
+44. Click Run ▶ to start the simulation.
